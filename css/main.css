@@ -78,8 +78,9 @@ img{
     text-align: center;
     box-shadow: 3px -5px;
 }
-..box-1{
-    background-image: url();
+.box-1{
+    background-image: url(https://static.wixstatic.com/media/5bfb6f_bb013bf1966340ceb9a576d68aa42273.jpg/v1/fill/w_300,h_188,al_c,q_80,usm_0.66_1.00_0.01/5bfb6f_bb013bf1966340ceb9a576d68aa42273.webp);
+    background-size: cover;
 }
 .box-2{
     background-image: url(https://static.wixstatic.com/media/5bfb6f_bb013bf1966340ceb9a576d68aa42273.jpg/v1/fill/w_300,h_188,al_c,q_80,usm_0.66_1.00_0.01/5bfb6f_bb013bf1966340ceb9a576d68aa42273.webp);
